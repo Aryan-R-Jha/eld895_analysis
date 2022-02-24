@@ -1,2 +1,2 @@
 system_name,sampling_rate,T,W,bifurcation_limit
-ieee9,0.01,15,1500,0.9
+ieee9,0.01,3,300,0.9
