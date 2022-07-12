@@ -1,2 +1,2 @@
 system_name,run_number,sampling_rate,downsampling_ratio,T,W,window_moving_ratio,bifurcation_limit,bifurcationIdx,lastIdx,convolutionMarginRatio
-ieee9,6,0.01,1,15,1500,0.05,0.9,9509,17771,0
+ieee9,6,0.01,1,30,3000,0.05,0.9,22993,43492,0
